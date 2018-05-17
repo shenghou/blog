@@ -5,13 +5,16 @@
 ### 1.先获取图片路径 ###
 ``` js
         function getUrl( imge) {
-            toBase64(imge.source_url)
+            toBase64(imge.source_url, function(duration){
+                console.log(duraion)
+            })
         }
 
 ```
 ### 2.将图片转成base64  ###
 ```  js
-    function toBase64(url){
+    function toBase64(url, callback){
+        var duration;
         getBase64(url)
             .then(function(base64){
                 var blob =  dataURItoBlob(base64);
@@ -26,6 +29,7 @@
                         bytes[i] = binary_string.charCodeAt(i);
                     }
                     var gifInfo = gify.getInfo(bytes.buffer);
+                    callback(gifInfo.duration)
                 };
             },function(err){
                     console.log(err);
