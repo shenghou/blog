@@ -1,5 +1,7 @@
 ## 获取GIF图片时长 ##
 
+> [用到的整理时间插件](https://github.com/rfrench/gify)  
+
 ### 1.先获取图片路径 ###
 ``` js
         function getUrl( imge) {
@@ -73,4 +75,6 @@
 }
 
 ```
+
+
 
