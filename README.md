@@ -4,6 +4,18 @@
 
 ### js 相关
 * [for in， for of, for each](https://github.com/shenghou/blog/blob/master/2018/for%E5%BE%AA%E7%8E%AF%E7%9B%B8%E5%85%B3.md)
+* [deep copy](https://github.com/shenghou/lomean-note/blob/master/angularjs/deepCopy.ts)
+* [ equal ](https://github.com/shenghou/lomean-note/blob/master/angularjs/equal.ts)
+* [md5](https://github.com/shenghou/lomean-note/blob/master/angularjs/md5.ts)
+* [string to base64](https://github.com/shenghou/lomean-note/blob/master/angularjs/stringToBase64.ts)
+* [memento  做undo redo用](https://github.com/shenghou/lomean-note/blob/master/angularjs/memento.ts)
+* [Javascript-Undo-Manager](https://github.com/shenghou/lomean-note/blob/master/undo-redo/Javascript-Undo-Manager.js)
+
+### easel相关(canvas库)
+* [text base](https://github.com/shenghou/lomean-note/blob/master/easel/text.ts)
+* [text outline shadow](https://github.com/shenghou/lomean-note/blob/master/easel/outline%26shadow.ts)
+* [text gradietn](https://github.com/shenghou/lomean-note/blob/master/easel/gradient.ts)
+* [window base view](https://github.com/shenghou/lomean-note/blob/master/easel/window_base_view.ts)
 
 
 ### python 
@@ -18,3 +30,4 @@
 
 ### 其他
 * [解析git 图片的时长](https://github.com/shenghou/blog/blob/master/2018/%E8%8E%B7%E5%8F%96GIF%E6%97%B6%E9%95%BF.MD)
+* [google map](https://github.com/shenghou/lomean-note/blob/master/googlemap/gmpa.js)
