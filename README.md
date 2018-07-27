@@ -12,7 +12,7 @@
 * [Javascript-Undo-Manager](https://github.com/shenghou/lomean-note/blob/master/undo-redo/Javascript-Undo-Manager.js)
 
 ### angularjs
-* [angularjs 藏检测](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
+* [angularjs 脏检测（转载）](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
 
 ### easel相关(canvas库)
 * [text base](https://github.com/shenghou/lomean-note/blob/master/easel/text.ts)
