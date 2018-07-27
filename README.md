@@ -11,9 +11,9 @@
 
 
 ### 定制插件
-[angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
-[angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
-[angular  ng-img-crop将圆形和方形截图合并为一个，四角为等比缩放](https://github.com/shenghou/ng-img-crop-change)
+* [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
+* [angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
+* [angular  ng-img-crop将圆形和方形截图合并为一个，四角为等比缩放](https://github.com/shenghou/ng-img-crop-change)
 
 
 ### 其他
