@@ -10,6 +10,7 @@
 * [string to base64](https://github.com/shenghou/lomean-note/blob/master/angularjs/stringToBase64.ts)
 * [memento  做undo redo用](https://github.com/shenghou/lomean-note/blob/master/angularjs/memento.ts)
 * [Javascript-Undo-Manager](https://github.com/shenghou/lomean-note/blob/master/undo-redo/Javascript-Undo-Manager.js)
+* [js常用](https://github.com/shenghou/blog/blob/master/2018/js%E7%AE%97%E6%B3%95.md)
 
 ### angularjs
 * [angularjs 脏检测（转载）](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
