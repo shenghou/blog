@@ -12,6 +12,7 @@
 * [memento  做undo redo用](https://github.com/shenghou/lomean-note/blob/master/angularjs/memento.ts)
 * [Javascript-Undo-Manager](https://github.com/shenghou/lomean-note/blob/master/undo-redo/Javascript-Undo-Manager.js)
 * [js常用算法](https://github.com/shenghou/blog/blob/master/2018/js%E7%AE%97%E6%B3%95.md)
+* [js模拟链表返回](https://github.com/shenghou/blog/blob/master/2018/js%E6%A8%A1%E6%8B%9F%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C.md)
 
 ### angularjs
 * [angularjs 脏检测（转载）](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
