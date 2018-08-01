@@ -74,14 +74,14 @@
 
 新增需要，添加文件路径并且可以点击到相应路径，返回上级路径
 ### 效果图如下
-![color-picker-snap](src/moveMediaToFolder.png)
+![color-picker-snap](src/folderPath.png)
 
 分析当点击选择文件列表图标时候需要显示下级目录，点击目录时候获取点击的文件夹或者文件id位置，然后截取当前数组并且插入所点击的数组，这样就可以和之前的返回数组相对应
 ### 思路图如下
-
+![color-picker-snap](src/pathFolderSiLu.png)
 
 ### html页面图如下
-
+![color-picker-snap](src/folderPathHtml.png)
 
 > 首先是返回上一级即数组取前面一个
 ```js
