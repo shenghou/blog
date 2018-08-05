@@ -178,4 +178,4 @@
 
 > 当点击fn2时候，依次打印出`fn2 捕获A` 说明`stopImmediatePropagation()`阻止同级事件的传播
 
-  [!000000](https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
+  [参考](https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
