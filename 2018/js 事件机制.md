@@ -12,7 +12,7 @@
 ```
 
 ### 如图所示
-[!](src/eventInput.png)
+![img](src/eventInput.png)
 
 
 
