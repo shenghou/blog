@@ -14,6 +14,7 @@
 * [js常用算法](https://github.com/shenghou/blog/blob/master/2018/js%E7%AE%97%E6%B3%95.md)
 * [js模拟链表返回](https://github.com/shenghou/blog/blob/master/2018/js%E6%A8%A1%E6%8B%9F%E9%93%BE%E8%A1%A8%E6%93%8D%E4%BD%9C.md)
 * [js 事件机制](https://github.com/shenghou/blog/blob/master/2018/js%20%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6.md)
+* [js深拷贝与浅拷贝](https://github.com/shenghou/blog/blob/master/2018/js%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 
 ### angularjs
 * [angularjs 脏检测（转载）](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
