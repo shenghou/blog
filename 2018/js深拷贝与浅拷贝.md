@@ -116,3 +116,9 @@ js中分为基本数据类型 [`String`, `Number`, `boolean`, `Null`, `Undefined
     }
 
 ```
+### 参考
+* [https://juejin.im/post/5b0b7d9ef265da091f10530a](https://juejin.im/post/5b0b7d9ef265da091f10530a)
+* [https://juejin.im/entry/57bd3817a34131005b21cbdb](https://juejin.im/entry/57bd3817a34131005b21cbdb)
+* [https://juejin.im/post/5ab23769f265da237506c845](https://juejin.im/post/5ab23769f265da237506c845)
+* [https://juejin.im/post/5ad6b72f6fb9a028d375ecf6](https://juejin.im/post/5ad6b72f6fb9a028d375ecf6)
+* [https://juejin.im/post/5ab75dde5188255579189f2d]{https://juejin.im/post/5ab75dde5188255579189f2d}
