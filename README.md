@@ -2,6 +2,7 @@
 * [前端面试图谱（转）](https://yuchengkai.cn/docs/zh/)
 * [js相关算法(转)](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 * [前端项目知识(转)](https://github.com/CyC2018/Interview-Notebook)
+* [前端性能检测(转)](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### es6相关
 * [let, const](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8B%20let%20const.md) 
