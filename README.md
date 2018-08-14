@@ -37,6 +37,10 @@
 * [ python + selenium  自动化测试](https://github.com/shenghou/blog/blob/master/2018/Python%20Selenium%20%E6%B5%8B%E8%AF%95.md)
 
 
+### 安全
+* [常见攻击(转)](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF.md)
+
+
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
 * [angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
