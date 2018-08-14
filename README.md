@@ -40,6 +40,8 @@
 ### 安全
 * [常见攻击(转)](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF.md)
 
+### http
+* [http基础知识](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
 
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
