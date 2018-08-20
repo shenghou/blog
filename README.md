@@ -48,6 +48,9 @@
 * [js 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 * [event loop 规范与实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
 
+### 优化
+* [preload, prefetch](https://juejin.im/post/5a7fb09bf265da4e8e785c38)
+
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
 * [angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
@@ -57,4 +60,3 @@
 ### 其他
 * [解析git 图片的时长](https://github.com/shenghou/blog/blob/master/2018/%E8%8E%B7%E5%8F%96GIF%E6%97%B6%E9%95%BF.MD)
 * [google map](https://github.com/shenghou/lomean-note/blob/master/googlemap/gmpa.js)
-* [preload, prefetch](https://juejin.im/post/5a7fb09bf265da4e8e785c38)
