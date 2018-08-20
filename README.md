@@ -50,6 +50,7 @@
 
 ### 优化
 * [preload, prefetch](https://juejin.im/post/5a7fb09bf265da4e8e785c38)
+* [lazy load](https://github.com/ApoorvSaxena/lozad.js)
 
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
