@@ -44,6 +44,10 @@
 ### http
 * [http基础知识](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
 
+### node
+* [js 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+* [event loop 规范与实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
+
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
 * [angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
