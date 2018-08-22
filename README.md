@@ -49,7 +49,7 @@
 * [event loop 规范与实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
 
 ### 优化
-* [preload, prefetch](https://juejin.im/post/5a7fb09bf265da4e8e785c38)
+* [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
 * [lazy load](https://github.com/ApoorvSaxena/lozad.js)
 
 ### 定制插件
