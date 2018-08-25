@@ -51,6 +51,7 @@
 ### 优化
 * [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
 * [lazy load](https://github.com/ApoorvSaxena/lozad.js)
+* [monitor error and report](https://github.com/BetterJS)
 
 ### 定制插件
 * [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
