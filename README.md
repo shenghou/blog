@@ -50,6 +50,7 @@
 ### node
 * [js 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 * [event loop 规范与实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
+* [Promise,async/await](https://mp.weixin.qq.com/s/ZSDPMSjA4hYh1ECSv5ClHw)
 
 ### 优化
 * [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
