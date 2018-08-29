@@ -33,7 +33,8 @@
 * [text gradietn](https://github.com/shenghou/lomean-note/blob/master/easel/gradient.ts)
 * [window base view](https://github.com/shenghou/lomean-note/blob/master/easel/window_base_view.ts)
 
-
+### PWA
+* [service worker](https://juejin.im/post/5b5e8efbf265da0f60131ff4)
 ### python 
 * [ python + selenium  自动化测试](https://github.com/shenghou/blog/blob/master/2018/Python%20Selenium%20%E6%B5%8B%E8%AF%95.md)
 
