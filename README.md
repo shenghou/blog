@@ -25,7 +25,8 @@
 * [js继承](https://github.com/shenghou/blog/blob/master/2018/js%20%20%E7%BB%A7%E6%89%BF.md)
 
 ### angularjs
-* [angularjs 脏检测（转载）](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
+* [angularjs 脏检测](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
+* [angularjs digest](http://www.ituring.com.cn/article/39865)
 
 ### easel相关(canvas库)
 * [text base](https://github.com/shenghou/lomean-note/blob/master/easel/text.ts)
