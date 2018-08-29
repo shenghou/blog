@@ -44,6 +44,7 @@
 
 ### http
 * [http基础知识](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/HTTP.md)
+* [http缓存](https://www.cnblogs.com/chenqf/p/6386163.htm)
 
 ### node
 * [js 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
