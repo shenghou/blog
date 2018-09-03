@@ -4,10 +4,10 @@
 
 ### 效果图如下
 
-![color-picker-snap](src/moveMediaToFolder.png)
+![folderPath](src/folderPath.png)
 
 ### html页面图如下
-![color-picker-snap](src/moveFolderHtml.png)
+![folderPathHtml](src/folderPathHtml.png)
 
 > 首先根据`modalData`过来的值设置两个数组以及当前的索引值为0
 ```js
@@ -62,26 +62,26 @@
 
 
 ### 具体思路图如下
-![color-picker-snap](src/folderBack.png)
+![pathFolderSiLu](src/pathFolderSiLu.png)
 
 
 ### 总结
     当需要下一层进入的时候，数组尾部添加并取最后一个值，返回上一层的话则可以通过取数组索引值来获取需要的值，但是当二次进入下一层的时候再尾部添加会导致
     二次返回上一层的是数组顺序紊乱，所以返回时候清除数组比取最后一个值更佳，当然用链表会比数组更好。
 ###  如下图所示错误方法 
-![color-picker-snap](src/moveFolderBug.png)
+![moveFolderBug](src/moveFolderBug.png)
 
 
 新增需要，添加文件路径并且可以点击到相应路径，返回上级路径
 ### 效果图如下
-![color-picker-snap](src/folderPath.png)
+![moveMediaToFolder](src/moveMediaToFolder.png)
 
 分析当点击选择文件列表图标时候需要显示下级目录，点击目录时候获取点击的文件夹或者文件id位置，然后截取当前数组并且插入所点击的数组，这样就可以和之前的返回数组相对应
 ### 思路图如下
-![color-picker-snap](src/pathFolderSiLu.png)
+![pathFolderSiLu](src/pathFolderSiLu.png)
 
 ### html页面图如下
-![color-picker-snap](src/folderPathHtml.png)
+![folderPathHtml](src/folderPathHtml.png)
 
 > 首先是返回上一级即数组取前面一个
 ```js
