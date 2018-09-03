@@ -66,6 +66,7 @@
 
 ### 其他
 * [解析git 图片的时长](https://github.com/shenghou/blog/blob/master/2018/%E8%8E%B7%E5%8F%96GIF%E6%97%B6%E9%95%BF.MD)
+* [断电续传](https://juejin.im/post/5b895a6251882542b60ebd60)
 * [google map](https://github.com/shenghou/lomean-note/blob/master/googlemap/gmpa.js)
 * [hash冲突](https://www.cnblogs.com/wuchaodzxx/p/7396599.html)
 * [埋点](https://juejin.im/post/5b8b50ea6fb9a01a0b31a9a4)
