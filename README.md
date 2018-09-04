@@ -23,6 +23,7 @@
 * [js 事件机制](https://github.com/shenghou/blog/blob/master/2018/js%20%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6.md)
 * [js深拷贝与浅拷贝](https://github.com/shenghou/blog/blob/master/2018/js%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 * [js继承](https://github.com/shenghou/blog/blob/master/2018/js%20%20%E7%BB%A7%E6%89%BF.md)
+* [js中this](https://juejin.im/post/5b6676e6f265da0fa00a3a12)
 
 ### angularjs
 * [angularjs 脏检测](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
