@@ -70,3 +70,5 @@
 * [google map](https://github.com/shenghou/lomean-note/blob/master/googlemap/gmpa.js)
 * [hash冲突](https://www.cnblogs.com/wuchaodzxx/p/7396599.html)
 * [埋点](https://juejin.im/post/5b8b50ea6fb9a01a0b31a9a4)
+* [防抖，节流](https://github.com/sophiayang1997/notebook/blob/master/src/JavaScript/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
+* [防抖，节流](https://mp.weixin.qq.com/s/Vkshf-nEDwo2ODUJhxgzVA)
