@@ -28,7 +28,7 @@
 ### angularjs
 * [angularjs 脏检测](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
 * [angularjs digest](http://www.ituring.com.cn/article/39865)
-
+* [angularjs upgrade angular](https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b)
 ### easel相关(canvas库)
 * [text base](https://github.com/shenghou/lomean-note/blob/master/easel/text.ts)
 * [text outline shadow](https://github.com/shenghou/lomean-note/blob/master/easel/outline%26shadow.ts)
