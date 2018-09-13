@@ -30,6 +30,7 @@
 * [angularjs digest](http://www.ituring.com.cn/article/39865)
 * [angularjs upgrade angular](https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b)
 * [angularjs upgrade angular](https://scotch.io/tutorials/get-started-with-ngupgrade-going-from-angularjs-to-angular)
+* [angularjs upgrade angular](https://hackernoon.com/angular-v4-hybrid-upgrade-application-73d5afba1e01)
 
 ### easel相关(canvas库)
 * [text base](https://github.com/shenghou/lomean-note/blob/master/easel/text.ts)
