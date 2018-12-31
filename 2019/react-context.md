@@ -1,4 +1,4 @@
-# context通过组件树提供了一个传递数据的方法，从而避免了在每一个层级收到的传递props属性。
+## context通过组件树提供了一个传递数据的方法，从而避免了在每一个层级收到的传递props属性。（shouledComponentUpdate 返回false的透传）
 
 ### eg:一般的传递——props
 ```jsx
