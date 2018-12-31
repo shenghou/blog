@@ -95,9 +95,20 @@ setState方法由父类component所提供，当我们调用这个函数时候，
  ```
  * `与传入对象更新state的方式不同，我们传入函数来更新state的时候，react会把更新state的函数加入到一个队列里面，然后按照函数的顺序依次调用，同时，为每个函数传入state的前一个状态，这样就能更合理的来更新我们的state了`
  
+ ## setState流程
+  1.enqueueSetState将state放入队列中，并调用enqueUpdate处理更新的component
+  2.如果组件当前正处于update事务中，则想将Component存入dirtyComponent中，否则调用batchedUpdates处理
+  3.batchedUpdates发起一次transaction.perform()事务
+  4.开始执行事务初始化，运行，结束三个阶段
+   * 初始化：事务初始化阶段没有注册方法，故无方法要执行
+   * 运行：执行setState时传入的callback方法，一般不会传callback参数
+   * 结束：更新isBatchingUpdates为false，并执行FLUSH_BATCHED_UPDATES这个wrapper中的close方法
+  5.FLUSH_BATCHED_UPDATES在close阶段，会循环遍历所有的dirtyComponentes，调用updateComponet刷新组件，并执行他的pendingCallbacks，也就是steState中设置的callback.
  
  # state vs props
  * state是可变的，是组件内部维护的一组用于反映组件ui变化的状态集合
  * props对于使用它的组件来说是只读的，要想修改props，只能通过该组件的父组件修改
  
 
+参考文章：
+[https://zhuanlan.zhihu.com/p/25882602](https://zhuanlan.zhihu.com/p/25882602)
