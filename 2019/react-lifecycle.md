@@ -45,3 +45,6 @@
      2. shoudlUpate 和 willUpdate 此处执行setState会造成循环调用， 禁止使用
      3. didUpate 此处执行setState同样会导致更新完又要在更新，进入死循环，应该尽量避免
      4. willReceive 由于只有props变化才会触发，故可以使用
+
+### 相关文档
+    * [16.3之后生命周期](https://zhuanlan.zhihu.com/p/38030418)
