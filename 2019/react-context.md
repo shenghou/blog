@@ -251,3 +251,4 @@ class App extends React.Component {
 ### 相关文档
 * [https://juejin.im/post/5a90e0545188257a63112977](https://juejin.im/post/5a90e0545188257a63112977)
 * [https://juejin.im/post/5a90e0545188257a63112977](https://juejin.im/post/5a90e0545188257a63112977)
+* [避免重复渲染角度-observedBits](https://zhuanlan.zhihu.com/p/51073183)
