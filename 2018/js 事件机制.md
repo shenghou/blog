@@ -178,4 +178,15 @@
 
 > 当点击fn2时候，依次打印出`fn2 捕获A` 说明`stopImmediatePropagation()`阻止同级事件的传播
 
-  参考[https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html](https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
+ ### 事件机制
+* [https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html](https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
+
+### 事件委托、事件冒泡
+* [https://www.cnblogs.com/liugang-vip/p/5616484.html](https://www.cnblogs.com/liugang-vip/p/5616484.html)
+* [https://blog.csdn.net/zhouziyu2011/article/details/60955951](https://blog.csdn.net/zhouziyu2011/article/details/60955951)
+* [https://www.cnblogs.com/Chen-XiaoJun/p/6210987.html](https://www.cnblogs.com/Chen-XiaoJun/p/6210987.html)
+* [https://blog.csdn.net/qq_27446907/article/details/68951259](https://blog.csdn.net/qq_27446907/article/details/68951259)
+* [https://blog.csdn.net/leonhuangjiajun/article/details/75577247](https://blog.csdn.net/leonhuangjiajun/article/details/75577247)
+* [https://www.jb51.net/article/82099.htm](https://www.jb51.net/article/82099.htm)
+* [https://www.cnblogs.com/Nomand/p/4236356.html](https://www.cnblogs.com/Nomand/p/4236356.html)
+* [https://www.tuicool.com/articles/jQZj6zB](https://www.tuicool.com/articles/jQZj6zB)
