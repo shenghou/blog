@@ -181,6 +181,16 @@
  ### 事件机制
 * [https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html](https://www.cnblogs.com/hustskyking/p/problem-javascript-event.html)
 
+### event对象封装
+* [https://www.cnblogs.com/chaoyuehedy/p/5692899.html](https://www.cnblogs.com/chaoyuehedy/p/5692899.html)
+* [https://blog.csdn.net/qq_29882585/article/details/52336112](https://blog.csdn.net/qq_29882585/article/details/52336112)
+* [http://www.jb51.net/article/19724.htm](http://www.jb51.net/article/19724.htm)
+* [http://www.jb51.net/article/28248.htm](http://www.jb51.net/article/28248.htm)
+
+### input事件传播
+* [https://www.cnblogs.com/angleStudy/p/input.html](https://www.cnblogs.com/angleStudy/p/input.html)
+* [http://www.jb51.net/article/53438.htm](http://www.jb51.net/article/53438.htm)
+
 ### 事件委托、事件冒泡
 * [https://www.cnblogs.com/liugang-vip/p/5616484.html](https://www.cnblogs.com/liugang-vip/p/5616484.html)
 * [https://blog.csdn.net/zhouziyu2011/article/details/60955951](https://blog.csdn.net/zhouziyu2011/article/details/60955951)
@@ -190,3 +200,11 @@
 * [https://www.jb51.net/article/82099.htm](https://www.jb51.net/article/82099.htm)
 * [https://www.cnblogs.com/Nomand/p/4236356.html](https://www.cnblogs.com/Nomand/p/4236356.html)
 * [https://www.tuicool.com/articles/jQZj6zB](https://www.tuicool.com/articles/jQZj6zB)
+
+### 事件循环
+* [https://blog.csdn.net/qq_31628337/article/details/71056294](https://blog.csdn.net/qq_31628337/article/details/71056294)
+* [https://segmentfault.com/a/1190000004322358](https://segmentfault.com/a/1190000004322358)
+* [https://www.cnblogs.com/hity-tt/p/6733062.html](https://www.cnblogs.com/hity-tt/p/6733062.html)
+* [https://www.cnblogs.com/cangqinglang/p/8967268.html](https://www.cnblogs.com/cangqinglang/p/8967268.html)
+* [https://www.cnblogs.com/dong-xu/p/7000163.html](https://www.cnblogs.com/dong-xu/p/7000163.html)
+* [https://cnodejs.org/topic/50462f51329c5139760bff98](https://cnodejs.org/topic/50462f51329c5139760bff98)
