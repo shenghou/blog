@@ -67,6 +67,7 @@
 
 ### 优化
 * [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
+* [PWA](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
 * [lazy load](https://github.com/ApoorvSaxena/lozad.js)
 * [monitor error and report](https://github.com/BetterJS)
 * [monitor web  performance ](https://github.com/wangweianger/web-performance-monitoring-system)
