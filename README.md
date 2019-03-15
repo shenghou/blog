@@ -1,3 +1,5 @@
+### issue中为发现的一些bug及工作中遇到的业务场景改进的地方
+
 ### 前端知识
 * [前端面试图谱（转）](https://yuchengkai.cn/docs/zh/)
 * [js相关算法(转)](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
