@@ -15,11 +15,6 @@
 * [gify-解析gif](https://github.com/rfrench/gify)
 
 
-### 前端知识
-* [前端面试图谱（转）](https://yuchengkai.cn/docs/zh/)
-* [js相关算法(转)](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
-* [前端项目知识(转)](https://github.com/CyC2018/Interview-Notebook)
-* [前端性能检测(转)](https://github.com/thedaviddias/Front-End-Performance-Checklist)
 
 ### es6相关
 * [let, const](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8B%20let%20const.md) 
@@ -40,7 +35,6 @@
 * [js 事件机制](https://github.com/shenghou/blog/blob/master/2018/js%20%E4%BA%8B%E4%BB%B6%E6%9C%BA%E5%88%B6.md)
 * [js深拷贝与浅拷贝](https://github.com/shenghou/blog/blob/master/2018/js%E6%B7%B1%E6%8B%B7%E8%B4%9D%E4%B8%8E%E6%B5%85%E6%8B%B7%E8%B4%9D.md)
 * [js继承](https://github.com/shenghou/blog/blob/master/2018/js%20%20%E7%BB%A7%E6%89%BF.md)
-* [js中this](https://juejin.im/post/5b6676e6f265da0fa00a3a12)
 
 ### react
 * [react-context](https://github.com/shenghou/blog/blob/master/2019/react-context.md)
@@ -51,7 +45,7 @@
 * [react-dender props](https://github.com/shenghou/blog/blob/master/2019/react-render%20props.md)
 * [react-state&setstate](https://github.com/shenghou/blog/blob/master/2019/react-state%26setstate.md)
 
-### angularjs
+### angularjs（转）
 * [angularjs 脏检测](https://www.cnblogs.com/likeFlyingFish/p/6183630.html)
 * [angularjs digest](http://www.ituring.com.cn/article/39865)
 * [angularjs upgrade angular](https://vsavkin.com/migrating-angular-1-applications-to-angular-2-in-5-simple-steps-40621800a25b)
@@ -64,25 +58,23 @@
 * [text gradietn](https://github.com/shenghou/lomean-note/blob/master/easel/gradient.ts)
 * [window base view](https://github.com/shenghou/lomean-note/blob/master/easel/window_base_view.ts)
 
-### PWA
-* [service worker](https://juejin.im/post/5b5e8efbf265da0f60131ff4)
 
 ### python 
 * [ python + selenium  自动化测试](https://github.com/shenghou/blog/blob/master/2018/Python%20Selenium%20%E6%B5%8B%E8%AF%95.md)
 
-### 安全
+### 安全（转）
 * [常见攻击(转)](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF.md)
 
-### http
+### http（转）
 * [http缓存](https://juejin.im/post/5c4528a6f265da611a4822cc)
 * [http缓存](https://www.cnblogs.com/chenqf/p/6386163.htm)
 
-### node
+### node（转）
 * [js 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
 * [event loop 规范与实现](https://juejin.im/post/5a6155126fb9a01cb64edb45)
 * [Promise,async/await](https://mp.weixin.qq.com/s/ZSDPMSjA4hYh1ECSv5ClHw)
 
-### 优化
+### 优化（转）
 * [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
 * [PWA](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
 * [lazy load](https://github.com/ApoorvSaxena/lozad.js)
