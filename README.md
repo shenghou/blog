@@ -2,6 +2,18 @@
 
 ### Taro笔记
 
+### 第三方
+* [html2Canvas-屏幕截图](https://github.com/niklasvh/html2canvas)
+* [prometheus-数据同步](https://github.com/prometheus/prometheus)
+* [lerna-多包管理](https://github.com/lerna/lerna)
+* [roadhog-react cli](https://github.com/sorrycc/roadhog)
+* [validator-校验工具](https://github.com/chriso/validator.js)
+* [sequelize-orm](https://github.com/sequelize/sequelize)
+* [egg-node&koa](https://github.com/eggjs/egg)
+* [ngInfiniteScroll angularjs滚动](https://github.com/sroze/ngInfiniteScroll)
+* [angularjs-dragula  angualrs拖拽](https://github.com/bevacqua/angularjs-dragula)
+* [gify-解析gif](https://github.com/rfrench/gify)
+
 
 ### 前端知识
 * [前端面试图谱（转）](https://yuchengkai.cn/docs/zh/)
@@ -79,10 +91,6 @@
 * [防抖，节流](https://github.com/sophiayang1997/notebook/blob/master/src/JavaScript/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
 * [防抖，节流](https://mp.weixin.qq.com/s/Vkshf-nEDwo2ODUJhxgzVA)
 
-### 定制插件
-* [angular  color-picker插件增加颜色透明度 ](https://github.com/shenghou/color-picker)
-* [angular  deckgrid-custom插件增加点击选择序号，而不是默认的$index](https://github.com/shenghou/angular-deckgrid-custom)
-* [angular  ng-img-crop将圆形和方形截图合并为一个，四角为等比缩放](https://github.com/shenghou/ng-img-crop-change)
 
 ### 软硬件结合
 * [angular + node + is6f](https://github.com/shenghou/blog/blob/master/2018/%E8%BD%AF%E7%A1%AC%E4%BB%B6%E7%BB%93%E5%90%88.md)
