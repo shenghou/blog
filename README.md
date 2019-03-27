@@ -10,6 +10,7 @@
 * [ngInfiniteScroll angularjs滚动](https://github.com/sroze/ngInfiniteScroll)
 * [angularjs-dragula  angualrs拖拽](https://github.com/bevacqua/angularjs-dragula)
 * [gify-解析gif](https://github.com/rfrench/gify)
+* [ajv-json格式的校验工具](https://github.com/epoberezkin/ajv)
 
 
 
