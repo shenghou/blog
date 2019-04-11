@@ -1,7 +1,5 @@
 ### issue中为发现的一些bug及工作中遇到的业务场景改进的地方
 
-### Taro笔记
-
 ### 第三方
 * [html2Canvas-屏幕截图](https://github.com/niklasvh/html2canvas)
 * [prometheus-数据同步](https://github.com/prometheus/prometheus)
@@ -15,7 +13,10 @@
 * [监控 error-report](https://github.com/BetterJS)
 * [监控 web-performance ](https://github.com/wangweianger/web-performance-monitoring-system)
 * [react dnd](https://github.com/react-dnd/react-dnd)
-
+* [humps  名称转化](https://github.com/domchristie/humps)
+* [immutable react定义init的数据集](https://github.com/immutable-js/immutable-js)
+* [json-sql  agw定义sql](https://github.com/2do2go/json-sql)
+* [pubsubjs 封装全局socket](https://github.com/mroderick/PubSubJS)
 
 ### es6相关
 * [let, const](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8B%20let%20const.md) 
