@@ -56,9 +56,6 @@
 * [text gradietn](https://github.com/shenghou/lomean-note/blob/master/easel/gradient.ts)
 * [window base view](https://github.com/shenghou/lomean-note/blob/master/easel/window_base_view.ts)
 
-### 安全（转）
-* [常见攻击(转)](https://github.com/CyC2018/Interview-Notebook/blob/master/notes/%E6%94%BB%E5%87%BB%E6%8A%80%E6%9C%AF.md)
-
 ### http（转）
 * [http缓存](https://juejin.im/post/5c4528a6f265da611a4822cc)
 * [http缓存](https://www.cnblogs.com/chenqf/p/6386163.htm)
