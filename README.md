@@ -14,6 +14,7 @@
 * [lazy-load  图片懒加载](https://github.com/ApoorvSaxena/lozad.js)
 * [监控 error-report](https://github.com/BetterJS)
 * [监控 web-performance ](https://github.com/wangweianger/web-performance-monitoring-system)
+* [react dnd](https://github.com/react-dnd/react-dnd)
 
 
 ### es6相关
