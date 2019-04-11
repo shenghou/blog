@@ -126,6 +126,8 @@
 
 现在我们提供一个名为 React.forwardRef 的 API 来解决这一问题
 
+react 拷贝静态数据插件  hoistNonReactStatic
+
 相关文章
 * [属性代理和反向继承角度](https://juejin.im/post/5914fb4a0ce4630069d1f3f6)
 * [属性代理和反向继承角度](https://zhuanlan.zhihu.com/p/24776678)
