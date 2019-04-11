@@ -11,7 +11,9 @@
 * [angularjs-dragula  angualrs拖拽](https://github.com/bevacqua/angularjs-dragula)
 * [gify-解析gif](https://github.com/rfrench/gify)
 * [ajv-json格式的校验工具](https://github.com/epoberezkin/ajv)
-
+* [lazy-load  图片懒加载](https://github.com/ApoorvSaxena/lozad.js)
+* [监控 error-report](https://github.com/BetterJS)
+* [监控 web-performance ](https://github.com/wangweianger/web-performance-monitoring-system)
 
 
 ### es6相关
@@ -68,10 +70,6 @@
 ### 优化（转）
 * [preload, prefetch](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
 * [PWA](https://juejin.im/post/5c3ff18b6fb9a04a0a5f76aa)
-* [lazy load](https://github.com/ApoorvSaxena/lozad.js)
-* [monitor error and report](https://github.com/BetterJS)
-* [monitor web  performance ](https://github.com/wangweianger/web-performance-monitoring-system)
-* [防抖，节流](https://github.com/sophiayang1997/notebook/blob/master/src/JavaScript/%E9%98%B2%E6%8A%96%E5%92%8C%E8%8A%82%E6%B5%81.md)
 * [防抖，节流](https://mp.weixin.qq.com/s/Vkshf-nEDwo2ODUJhxgzVA)
 
 
