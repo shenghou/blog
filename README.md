@@ -1,6 +1,6 @@
 ### issue中为发现的一些bug及工作中遇到的业务场景改进的地方
 
-### 第三方
+### 开发中用到的第三方工具及其定制
 * [html2Canvas-屏幕截图](https://github.com/niklasvh/html2canvas)
 * [prometheus-数据同步](https://github.com/prometheus/prometheus)
 * [lerna-多包管理](https://github.com/lerna/lerna)
