@@ -17,6 +17,15 @@
 * [immutable react定义init的数据集](https://github.com/immutable-js/immutable-js)
 * [json-sql  agw定义sql](https://github.com/2do2go/json-sql)
 * [pubsubjs 封装全局socket](https://github.com/mroderick/PubSubJS)
+* [react中js测试](https://github.com/airbnb/enzyme)
+* [bunyan  nodejs 中日志记录库](https://github.com/trentm/node-bunyan)
+* [coverage 记录代码覆盖率](https://github.com/shinnn/coverage)
+* [swagger  nodejs 的API工具（慎用）](https://github.com/swagger-api/swagger-node)
+* [rimraf  nodejs 版 `rm -rf`](https://github.com/isaacs/rimraf)
+* [schema 校验json](https://github.com/akidee/schema.js)
+* [faker 搭配schema做API mock](https://github.com/Marak/Faker.js)
+* [winston  nodejs logger](https://github.com/winstonjs/winston)
+
 
 ### es6相关
 * [let, const](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8B%20let%20const.md) 
