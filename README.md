@@ -31,6 +31,7 @@
 * [let, const](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8B%20let%20const.md) 
 * [Symbol类型](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8BSymbol.md)
 * [map,set](https://github.com/shenghou/blog/blob/master/2018/es6%E4%B9%8Bmap%20set.md)
+* [promise async](https://github.com/shenghou/blog/blob/master/2019/es6%E4%B9%8Bpromise%20async.md)
 
 
 ### js 相关
