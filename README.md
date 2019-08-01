@@ -94,7 +94,6 @@
 * [断点续传(KOA)](https://juejin.im/post/5b895a6251882542b60ebd60)
 * [google map](https://github.com/shenghou/lomean-note/blob/master/googlemap/gmpa.js)
 * [hash冲突](https://www.cnblogs.com/wuchaodzxx/p/7396599.html)
-* [埋点](https://juejin.im/post/5b8b50ea6fb9a01a0b31a9a4)
 
 ### 测试
 * [ python + selenium  自动化测试](https://github.com/shenghou/blog/blob/master/2018/Python%20Selenium%20%E6%B5%8B%E8%AF%95.md)
